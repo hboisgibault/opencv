@@ -4,6 +4,11 @@ Installation :
 pip install mediapipe opencv-python playsound
 ```
 
+Utilisation : 
+```
+python main.py
+```
+
 Python OpenCV: Capture Video from Camera
 https://www.geeksforgeeks.org/python-opencv-capture-video-from-camera/
 
