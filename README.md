@@ -1,7 +1,8 @@
 
 Installation :
 ```
-pip install mediapipe opencv-python playsound
+pip install --upgrade setuptools wheel
+pip install opencv-python mediapipe playsound
 ```
 
 Utilisation : 
